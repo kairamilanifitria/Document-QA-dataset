@@ -1,5 +1,5 @@
 Files,Question,Ground Truth
-J1;what is the command for install the FLAIR library?;pip install flair
+J1;what is the command for install the FLAIR library;pip install flair
 J1;what is the proposed solution from this paper?;FLAIR framework
 J1;what github links of this framework?;https://github.com/zalandoresearch/flair
 J1;What are the presented framework used for?;Presented FLAIR as a framework designed to facilitate experimentation with different embedding types as well as training and distributing sequence labeling and text classification models.
