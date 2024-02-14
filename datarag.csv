@@ -8,14 +8,11 @@ J2;The experiment are based on what method?;Edge Probing
 J2;Mention two metrics that used in this experiment.;Scalar Mixing Weights, and Cumulative Scoring
 J2;what kind of model that introduced scalar mixing technique?;ELMo model
 J2;what language model used in this paper?;BERT model
-J2;What is the main purpose of edge probing?;"to measure how well information
-about linguistic structure can be extracted
-from a pre-trained encoder"
+J2;What is the main purpose of edge probing?;to measure how well information about linguistic structure can be extracted from a pre-trained encoder
 J3;What experiments were conducted in this research to quantify the computational and environmental costs of training deep neural network models for NLP?;perform an analysis of the energy required to train a variety of popular off the-shelf NLP models, as well as a case study of the complete sum of resources required to develop LISA, a state-of-the-art NLP model from EMNLP 2018, including all tuning and experimentation.
 J3;How long does it take to train Transformer base model and Transformer big model with NVIDIA P100 GPUs?;Transformer base model was trained for 12 hours, and Transformer big model was trained for 3.5 days
 J3;is TPUs more cost-efficient than GPUs based on Table 3 analysis?;Yes, Of note is that TPUs are more cost-efficient than GPUs on workloads that make sense for that hardware
-J3;what kind of GPU and CPU used for train all models in this experiment?;"NVIDIA Titan X GPU, and Intelís Running
-Average Power Limit interface CPU"
+J3;what kind of GPU and CPU used for train all models in this experiment?;NVIDIA Titan X GPU, and Intel‚Äôs Running Average Power Limit interface CPU
 J3;List the four models used in this experiment?;Transformers, ELMo, BERT, GPT-2
 J4;what is BRAT?;brat rapid annotation tool is an intuitive web-based tool for text annotation supported by Natural Language Processing (NLP) technology
 J4;How many annotations has BRAT created in its used at academic institutions?;well-over 50,000 annotations
@@ -28,26 +25,26 @@ J5;Which proceedings that publish this research paper?;Proceedings of the 2020 A
 J5;Is TextAttack available as a Python package that can be installed?;Yes, TextAttack is available as a Python package installed from PyPI
 J5;what is the API command-line from textattack that allows users to specify attacks?;textattack attack
 N1;when was the Korean war ended?;The Korean War ended in 1953
-N1;what does Kim said about inter-Korean relations based on news agency KCNA reported?;Kim said inter-Korean relations had become ìa relationship between two hostile countries and two belligerents at war,î the state-run news agency KCNA reported
+N1;what does Kim said about inter-Korean relations based on news agency KCNA reported?;Kim said inter-Korean relations had become ‚Äúa relationship between two hostile countries and two belligerents at war,‚Äù the state-run news agency KCNA reported
 N1;at what time the news published?;January 1, 2024
-N1;who is the person that said the North Korean leader has been increasingly walking away from ìinter-Korean relationsî in recent years?;Hoo Chiew-Ping
+N1;who is the person that said the North Korean leader has been increasingly walking away from ‚Äúinter-Korean relations‚Äù in recent years?;Hoo Chiew-Ping
 N1;North Korea plans to add how many spy satellites by 2024?;three
-N2;according to CaÒas, what was the waiting migrants feel?;The waiting migrants feel ìdesperate,î
+N2;according to Ca√±as, what was the waiting migrants feel?;The waiting migrants feel ‚Äúdesperate,‚Äù
 N2;how many migrant encounters along the US southern border in December based on Federal authorities report?;9,600 migrant encounters
 N2;how many migrants arrived by train that the director of a migrant shelter in Piedras Negras told to CNN?;1,000 migrants arrived
 N2;how many migrants in Tijuana, Reynosa, and Matamoros are staying in shelters?;3,800 in Tijuana, 3,273 in Reynosa, and 4,000 in Matamoros
 N2;The US Department of Homeland Security has deported how many migrants since May?;445,000
-N3;what caused the highest chance for impactful snow this winter on the East Coast?;active Pacific storm track typical of an El NiÒo winter will send a series of storms across the US into next week
+N3;what caused the highest chance for impactful snow this winter on the East Coast?;active Pacific storm track typical of an El Ni√±o winter will send a series of storms across the US into next week
 N3;when does rain predicted will begin in eastern Texas?;Thursday evening
 N3;what does statement that Weather Prediction Center said about heavy precipitation impact?;Heavy precipitation will spread across the Southeast/Mid-Atlantic and possibly the Northeast this coming weekend, with increasing potential for heavy snow to the north and west of the low
 N3;In which area winter may finally  arrive in the form of a storm?;Northeast and mid-Atlantic
 N3;how about a snow in Central Park according to the National Weather Service?;2.3 inches fell during the entirety of 2023
-N4;which body part of South Koreaís main opposition party leader being stabbed?;stabbed in the neck
+N4;which body part of South Korea‚Äôs main opposition party leader being stabbed?;stabbed in the neck
 N4;Where and at what moment does Lee being attacked?;Lee was touring the construction site of the Gadeokdo New Airport and talking to reporters when he was attacked
-N4;What does doctors said about Lee suffered after being attacked?;Lee suffered ìsuspected damage to his jugular veinî and doctors were concerned he may have additional bleeding
+N4;What does doctors said about Lee suffered after being attacked?;Lee suffered ‚Äúsuspected damage to his jugular vein‚Äù and doctors were concerned he may have additional bleeding
 N4;Who is being stabbed?;Lee Jae-myung
 N4;How long was the knife used by the assailant to stab Lee?;18 cm or 7 inch
-N5;What does he airlineís Senior Vice President Noriyuki Aoki said in a press conference Tuesday evening?;Japan Airlines said four of its passengers were taken to hospitals but the airline has not received any additional reports of injuries
+N5;What does he airline‚Äôs Senior Vice President Noriyuki Aoki said in a press conference Tuesday evening?;Japan Airlines said four of its passengers were taken to hospitals but the airline has not received any additional reports of injuries
 N5;Who that participated in the investigation to determine who was responsible for the plane crash?;Japan Airlines,  and The French aviation agency
 N5; Japan Air Lines Airbus A350 caught fire after being collided with what kind of plane?; Japan Coast Guard aircraft
 N5;How many people died and how many were evacuated in JAL flight 516 incident?;five dead, 379 evacuated
@@ -61,19 +58,18 @@ R2;what is the title of the news report?;Nvidia to launch slower version of its 
 R2;when the news published?;December 29, 2023
 R2;What is the percentage difference in CUDA cores on the Nvidia RTX 4090D for Chinese and non-Chinese consumers?;11%
 R2;Is Nvidia RTX 4090 banned in US based on Securities and Exchange Commission filing?;Yes, Nvidia RTX 4090 was included on the list of banned U.S made chips
-R2;from which sector of market demand does the company benefit the most?; rush of demand for AI, OpenAIís ChatGPT chatbot.
+R2;from which sector of market demand does the company benefit the most?; rush of demand for AI, OpenAI‚Äôs ChatGPT chatbot.
 R3;what is the main topic of the news report?;Unemployment among Asian workers and Black men rises in November while the overall rate declines
 R3;when the news published?;December 8, 2023
 R3;who writes the news?;LISA KAILAI HAN
 R3;How much did the unemployment rate decline by percentage last month?;0.2% 
-R3;What statement did Elise Gould told to CNBC?;That uptick in unemployment is not because more Asian workers are flooding into the labor market, feeling optimistic about getting jobs. Itís actually accompanied by a fall in participation as well as a fall in employment
-R4;"
-what is the main topic of the news?";Tesla reported delivery and production numbers for the fourth quarter
+R3;What statement did Elise Gould told to CNBC?;That uptick in unemployment is not because more Asian workers are flooding into the labor market, feeling optimistic about getting jobs. It‚Äôs actually accompanied by a fall in participation as well as a fall in employment
+R4;what is the main topic of the news?;Tesla reported delivery and production numbers for the fourth quarter
 R4;when the news published?;January 2, 2024
 R4;Can you inform the key numbers of fourth-quarter vehicle production and deliveries report for 2023 from Tesla?;Total deliveries Q4 2023 is 484.507,  Total production Q4 2023 is 494.989, Total annual deliveries 2023 is 1.808.581, Total annual production 2023 is 1.845.985
 R4;How many electric vehicle deliveries and production based on Tesla's report in 2022?;1.31 million deliveries, and 1.37 million production
 R4;How many units of Chinese automaker BYD's new energy vehicles were sold in 2023?; 3.02 million
-R5;what is the title of the news report?;Copper could skyrocket over 75% to record highs by 2025 ó brace for deficits, analysts say
+R5;what is the title of the news report?;Copper could skyrocket over 75% to record highs by 2025 ‚Äî brace for deficits, analysts say
 R5;when the news published?;January 2, 2024
 R5;who is the writer that published the news?;LEE YING SHAN
 R5;What was the last price of copper on the London Metal Exchange?;$8,559 a ton
