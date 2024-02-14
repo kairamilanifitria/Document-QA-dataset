@@ -5,7 +5,7 @@ J1;what github links of this framework?;https://github.com/zalandoresearch/flair
 J1;What are the presented framework used for?;Presented FLAIR as a framework designed to facilitate experimentation with different embedding types as well as training and distributing sequence labeling and text classification models.
 J1;what is the minimum python version to setup FLAIR in the environment?;at least version 3.6 of Python
 J2;The experiment are based on what method?;Edge Probing
-J2;Mention two metrics that used in this experiment.;Scalar Mixing Weights, and Cumulative Scoring
+J2;Mention two metrics that used in this experiment;Scalar Mixing Weights and Cumulative Scoring
 J2;what kind of model that introduced scalar mixing technique?;ELMo model
 J2;what language model used in this paper?;BERT model
 J2;What is the main purpose of edge probing?;to measure how well information about linguistic structure can be extracted from a pre-trained encoder
