@@ -42,4 +42,5 @@ This dataset provides a robust evaluation tool for application-based question an
 ## Citation
 
 If you use this dataset in your research or project, please cite it as follows:
+
 Kaira Milani Fitria. (2024). Document-QA-dataset: DocuQA (DocuQA) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10658275
