@@ -9,7 +9,7 @@ J2;Mention two metrics that used in this experiment;Scalar Mixing Weights and Cu
 J2;what kind of model that introduced scalar mixing technique?;ELMo model
 J2;what language model used in this paper?;BERT model
 J2;What is the main purpose of edge probing?;to measure how well information about linguistic structure can be extracted from a pre-trained encoder
-J3;What experiments were conducted in this research to quantify the computational and environmental costs of training deep neural network models for NLP?;perform an analysis of the energy required to train a variety of popular off the-shelf NLP models, as well as a case study of the complete sum of resources required to develop LISA, a state-of-the-art NLP model from EMNLP 2018, including all tuning and experimentation.
+J3;What experiments were conducted in this research to quantify the computational and environmental costs of training deep neural network models for NLP;perform an analysis of the energy required to train a variety of popular off the-shelf NLP models as well as a case study of the complete sum of resources required to develop LISA a state-of-the-art NLP model from EMNLP 2018 including all tuning and experimentation
 J3;How long does it take to train Transformer base model and Transformer big model with NVIDIA P100 GPUs?;Transformer base model was trained for 12 hours, and Transformer big model was trained for 3.5 days
 J3;is TPUs more cost-efficient than GPUs based on Table 3 analysis?;Yes, Of note is that TPUs are more cost-efficient than GPUs on workloads that make sense for that hardware
 J3;what kind of GPU and CPU used for train all models in this experiment?;NVIDIA Titan X GPU, and Intel’s Running Average Power Limit interface CPU
