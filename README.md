@@ -43,4 +43,5 @@ This dataset provides a robust evaluation tool for application-based question an
 
 If you use this dataset in your research or project, please cite this dataset in your research paper.
 
+Fitria, Kaira Milani (2024). DocuQA. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25223990
 
